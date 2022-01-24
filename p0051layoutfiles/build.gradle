@@ -7,7 +7,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "ru.startandroid.p0180constraintlayoutintro"
+        applicationId "ru.startandroid.p0051layoutfiles"
         minSdk 21
         targetSdk 31
         versionCode 1
