@@ -20,7 +20,9 @@
             <option value="$PROJECT_DIR$/p0081viewbyid" />
             <option value="$PROJECT_DIR$/p0111resvalues" />
             <option value="$PROJECT_DIR$/p0121logandmess" />
+            <option value="$PROJECT_DIR$/p0131menusimple" />
             <option value="$PROJECT_DIR$/p0180constraintlayoutintro" />
+            <option value="$PROJECT_DIR$/p1071actionbaritems" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
